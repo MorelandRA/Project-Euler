@@ -1,3 +1,8 @@
+/* A collection of generic array-related functions
+ * 
+ * Randall Moreland
+ */
+
 import java.math.BigInteger;
 
 public class myArrays {
