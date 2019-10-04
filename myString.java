@@ -1,3 +1,8 @@
+/* A collection of generic String-related functions
+ * 
+ * Randall Moreland
+ */
+
 public class myString {
 	public static void main(String[] args){
 
