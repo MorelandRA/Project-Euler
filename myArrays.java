@@ -2,9 +2,6 @@ import java.math.BigInteger;
 
 public class myArrays {
 	public static void main(String[] args){
-		int arr[] = {253, 123, 123 ,345, 56756, 13, 345, 346 ,76, 324, 2,5,7,4,0,2,12,3,546};
-		bubbleSort(arr, false);
-		printArr(arr);
 		
 	}
 	
